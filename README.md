@@ -198,8 +198,8 @@
 - monster
 <img src="https://media.vlpt.us/images/hayeon23/post/a8a5e3a7-53b0-44de-945e-d7364b171f07/c1.png" width="60" height="60"/>
 <img src="https://media.vlpt.us/images/hayeon23/post/bfcac0f0-b32b-4fe7-8231-c21e9eaaa86a/c2.png" width="60" height="60"/>
-<img src="https://media.vlpt.us/images/hayeon23/post/f793e4dd-d0d3-494e-9c39-395f29ac6a17/c++1.png" width="60" height="60"/>
-<img src="https://media.vlpt.us/images/hayeon23/post/0870e794-f8a0-43f6-a774-ef045d27df37/c++2.png" width="60" height="60"/>
+<img src="https://media.vlpt.us/images/hayeon23/post/e0bf1f47-cb4e-4ddc-8973-4943d6682b3b/c++1.png" width="60" height="60"/>
+<img src="https://media.vlpt.us/images/hayeon23/post/f77b068c-a0f3-43b8-b732-133544632936/c++2.png" width="60" height="60"/>
 <img src="https://media.vlpt.us/images/hayeon23/post/d33e17c2-3063-44d4-a2aa-eac60d669377/p1.png" width="60" height="60"/>
 <img src="https://media.vlpt.us/images/hayeon23/post/3c072440-9e71-463c-8a0f-1edd75e5b96a/p2.png" width="60" height="60"/>
 
